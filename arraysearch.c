@@ -3,9 +3,6 @@
 int main()
 {
 
-
-     
-
   int limit,values[100],i,j,searchkey,flag=0;
 
   printf("enter limit\t");
